@@ -1,5 +1,5 @@
  let sum = (a,b)=>{
     summ = a+b;
-    return summ;
+    return console.log(summ);
  }
  sum(12, 34);
